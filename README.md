@@ -9,6 +9,8 @@ The `Experiment/` directory contains the materials used to run and evaluate mode
 
 The `Figures/` directory contains all visualizations used in the thesis.
 
+For a more detailed writeup of experimental results: https://ai.williamtheisen.com/musings/monuments/
+
 
 Thanks for being curious, 
 Frazier Dougherty
