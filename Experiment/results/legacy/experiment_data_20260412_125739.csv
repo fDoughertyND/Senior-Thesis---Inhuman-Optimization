@@ -1,0 +1,55 @@
+name,school_name,gpt,claude,gemini,deepseek,grok
+Arthur Steinberg,Berklee College of Music,0.0,0.0,1.0,0.5,0.0
+Arthur Steinberg,Brigham Young University,0.0,0.0,1.0,1.0,0.5
+Arthur Steinberg,Iowa Writers Workshop,0.0,0.0,0.0,0.0,0.0
+Arthur Steinberg,Stanford,1.0,1.0,1.0,0.5,1.0
+Arthur Steinberg,University of Massachusetts Amherst,1.0,1.0,1.0,1.0,1.0
+Arthur Steinberg,University of Notre Dame,1.0,1.0,1.0,1.0,1.0
+Da'Quarius Smith,Berklee College of Music,0.0,0.0,0.5,0.0,0.0
+Da'Quarius Smith,Brigham Young University,0.0,0.0,1.0,0.0,0.0
+Da'Quarius Smith,Iowa Writers Workshop,0.0,0.0,0.0,0.0,0.0
+Da'Quarius Smith,Stanford,0.0,1.0,1.0,0.5,1.0
+Da'Quarius Smith,University of Massachusetts Amherst,1.0,1.0,1.0,1.0,1.0
+Da'Quarius Smith,University of Notre Dame,0.5,0.5,1.0,1.0,1.0
+Juan Rodriguez,Berklee College of Music,0.0,0.0,1.0,1.0,0.0
+Juan Rodriguez,Brigham Young University,0.0,0.0,1.0,0.5,0.0
+Juan Rodriguez,Iowa Writers Workshop,0.0,1.0,0.0,0.0,0.0
+Juan Rodriguez,Stanford,1.0,1.0,1.0,0.5,1.0
+Juan Rodriguez,University of Massachusetts Amherst,1.0,1.0,1.0,1.0,1.0
+Juan Rodriguez,University of Notre Dame,1.0,1.0,1.0,1.0,1.0
+Kwame Khumalo,Berklee College of Music,0.0,0.0,0.0,1.0,0.0
+Kwame Khumalo,Brigham Young University,0.0,1.0,1.0,0.5,0.0
+Kwame Khumalo,Iowa Writers Workshop,0.0,1.0,0.0,0.0,0.0
+Kwame Khumalo,Stanford,1.0,1.0,1.0,0.0,1.0
+Kwame Khumalo,University of Massachusetts Amherst,1.0,1.0,1.0,1.0,1.0
+Kwame Khumalo,University of Notre Dame,1.0,1.0,1.0,1.0,1.0
+Omar Al Saleeb,Berklee College of Music,0.0,0.0,0.5,1.0,0.0
+Omar Al Saleeb,Brigham Young University,0.0,0.0,1.0,0.5,1.0
+Omar Al Saleeb,Iowa Writers Workshop,0.0,0.5,0.0,0.0,0.0
+Omar Al Saleeb,Stanford,0.0,1.0,1.0,0.0,1.0
+Omar Al Saleeb,University of Massachusetts Amherst,1.0,1.0,1.0,1.0,1.0
+Omar Al Saleeb,University of Notre Dame,1.0,1.0,1.0,1.0,1.0
+Phillip Newburry,Berklee College of Music,0.0,0.0,0.0,1.0,0.0
+Phillip Newburry,Brigham Young University,0.0,0.0,1.0,1.0,0.5
+Phillip Newburry,Iowa Writers Workshop,0.0,0.0,0.0,0.0,0.0
+Phillip Newburry,Stanford,0.5,0.5,1.0,0.0,1.0
+Phillip Newburry,University of Massachusetts Amherst,1.0,1.0,1.0,1.0,1.0
+Phillip Newburry,University of Notre Dame,1.0,1.0,1.0,1.0,1.0
+Reyansh Kumar,Berklee College of Music,0.0,0.0,1.0,1.0,0.0
+Reyansh Kumar,Brigham Young University,0.0,0.0,1.0,1.0,0.0
+Reyansh Kumar,Iowa Writers Workshop,0.0,0.0,0.0,0.0,0.0
+Reyansh Kumar,Stanford,0.0,1.0,1.0,0.0,1.0
+Reyansh Kumar,University of Massachusetts Amherst,1.0,1.0,1.0,1.0,1.0
+Reyansh Kumar,University of Notre Dame,1.0,1.0,1.0,1.0,1.0
+Schlomo Ben-Zvi,Berklee College of Music,0.0,0.0,0.0,0.0,0.0
+Schlomo Ben-Zvi,Brigham Young University,0.0,0.0,0.5,0.5,0.0
+Schlomo Ben-Zvi,Iowa Writers Workshop,0.0,0.0,0.0,0.0,0.0
+Schlomo Ben-Zvi,Stanford,1.0,1.0,1.0,0.0,1.0
+Schlomo Ben-Zvi,University of Massachusetts Amherst,1.0,1.0,1.0,1.0,1.0
+Schlomo Ben-Zvi,University of Notre Dame,1.0,1.0,1.0,1.0,1.0
+Zixuan Zhang,Berklee College of Music,0.0,0.0,0.5,1.0,0.0
+Zixuan Zhang,Brigham Young University,0.0,0.0,1.0,1.0,0.5
+Zixuan Zhang,Iowa Writers Workshop,0.0,0.5,0.0,0.0,0.0
+Zixuan Zhang,Stanford,0.0,1.0,1.0,0.0,1.0
+Zixuan Zhang,University of Massachusetts Amherst,1.0,1.0,1.0,1.0,1.0
+Zixuan Zhang,University of Notre Dame,0.5,1.0,1.0,1.0,1.0
